@@ -1,0 +1,40 @@
+{
+	id: "5d162d11-5246-4e17-91b5-d12c30e1b5ff"
+	type: "party"
+	owner: "2647a8e0-324b-4d96-ac7b-27e17f4b4c45"
+	ranks: {
+		968c8a7f-8e38-3b9e-a614-8451b21612e0: "member"
+		c6882b73-0c38-385e-98d7-5f1485ac8bbe: "officer"
+		f1f8f6db-5d46-3b59-aead-a34997a0cdc6: "member"
+		2647a8e0-324b-4d96-ac7b-27e17f4b4c45: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "agaallthemods"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5964FF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732373061996L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"RealZSs\"],\"color\":\"yellow\"}" }
+		{ from: "c6882b73-0c38-385e-98d7-5f1485ac8bbe", date: 1732373455762L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"CagdasWFX\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732373460945L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"CagdasWFX\"],\"color\":\"green\"}" }
+		{ from: "c6882b73-0c38-385e-98d7-5f1485ac8bbe", date: 1732473663007L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"B3rks\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732473664805L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"B3rks\"],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732809126438L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"RealZSs\"],\"color\":\"green\"}" }
+		{ from: "2647a8e0-324b-4d96-ac7b-27e17f4b4c45", date: 1732809130244L, text: "{\"translate\":\"ftbteams.message.transfer_owner\",\"with\":[{\"text\":\"RealZSs\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+	]
+	extra: { }
+}

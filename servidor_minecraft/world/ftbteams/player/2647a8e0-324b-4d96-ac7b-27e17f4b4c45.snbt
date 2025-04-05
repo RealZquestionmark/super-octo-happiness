@@ -2,13 +2,11 @@
 	id: "2647a8e0-324b-4d96-ac7b-27e17f4b4c45"
 	type: "player"
 	player_name: "RealZSs"
-	ranks: {
-		2647a8e0-324b-4d96-ac7b-27e17f4b4c45: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "RealZSs"
 		"ftbteams:description": ""
-		"ftbteams:color": "#D7FF59"
+		"ftbteams:color": "#59EDFF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
